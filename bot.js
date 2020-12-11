@@ -17,7 +17,7 @@ const queue = new Map();
 const YouTube = require('simple-youtube-api');
 const ytdl = require('ytdl-core');
 const app = express();
-const db = require('wio.db');
+const db = require('quick.db');
 const ms = require('ms');
 
 app.get("/", (request, response) => {
