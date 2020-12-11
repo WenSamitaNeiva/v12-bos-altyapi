@@ -1,1 +1,1 @@
-# v12-bos-altyapi
+Loz Bey sunucusu için WenSamita Neiva Tarafından Oluşturulmuştur
